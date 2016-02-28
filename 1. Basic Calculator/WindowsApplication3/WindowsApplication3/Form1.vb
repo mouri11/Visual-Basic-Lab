@@ -26,7 +26,8 @@
         Dim b As Double = TextBox2.Text
 
         If b = 0 Then
-            TextBox3.Text = "Grow up Kid, You can't do that !"
+            MsgBox("Grow up Kid, You can't do that !")
+            TextBox3.Text = "Grow up Kid!"
         Else
             TextBox3.Text = Val(a) / Val(b)
         End If
