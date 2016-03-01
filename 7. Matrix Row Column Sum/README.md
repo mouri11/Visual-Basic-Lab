@@ -2,7 +2,7 @@
 A Basic Form Which Accepts a Matrix and displays the Sum of each rows and columns and the diagonals
 
 #Screenshot
-![alt tag](https://github.com/RudraNilBasu/Visual-Basic-Lab/blob/master/1.%20Basic%20Calculator/Screnshots/screen_2.png)
+![alt tag](https://github.com/RudraNilBasu/Visual-Basic-Lab/blob/master/7.%20Matrix%20Row%20Column%20Sum/Screenshots/screen_2.png)
 
 
 ###Software
