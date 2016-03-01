@@ -21,6 +21,8 @@
         ListView1.Visible = True
     End Sub
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        ListView2.Items.Clear()
+        ListView3.Items.Clear()
         Dim ld As Integer
         For i = 0 To r - 1
             ld = ld + arr(i, i)
