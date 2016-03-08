@@ -2,7 +2,7 @@
 A Basic Form Which Accepts a string and prints the number of characters in it
 
 #Screenshot
-![alt tag](https://github.com/RudraNilBasu/Visual-Basic-Lab/blob/master/8.%20Array%20Search%20Sort/Screenshots/screen_2.jpg)
+![alt tag](https://github.com/RudraNilBasu/Visual-Basic-Lab/blob/master/10.%20String%20characters/Screenshots/screen_2.png)
 
 
 ###Software
