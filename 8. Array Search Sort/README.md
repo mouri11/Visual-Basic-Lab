@@ -2,7 +2,7 @@
 A Basic Form Which Accepts an array and performs Binary Search and Bubble Sort (ascending order)
 
 #Screenshot
-![alt tag](https://github.com/RudraNilBasu/Visual-Basic-Lab/blob/master/7.%20Matrix%20Row%20Column%20Sum/Screenshots/screen_2.png)
+![alt tag](https://github.com/RudraNilBasu/Visual-Basic-Lab/blob/master/8.%20Array%20Search%20Sort/Screenshots/screen_2.jpg)
 
 
 ###Software
