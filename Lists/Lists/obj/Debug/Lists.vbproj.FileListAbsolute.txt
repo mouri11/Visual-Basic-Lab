@@ -1,0 +1,10 @@
+G:\Visual Basic\Lists\Lists\bin\Debug\Lists.exe.config
+G:\Visual Basic\Lists\Lists\bin\Debug\Lists.exe
+G:\Visual Basic\Lists\Lists\bin\Debug\Lists.pdb
+G:\Visual Basic\Lists\Lists\bin\Debug\Lists.xml
+G:\Visual Basic\Lists\Lists\obj\Debug\Lists.Form1.resources
+G:\Visual Basic\Lists\Lists\obj\Debug\Lists.Resources.resources
+G:\Visual Basic\Lists\Lists\obj\Debug\Lists.vbproj.GenerateResource.Cache
+G:\Visual Basic\Lists\Lists\obj\Debug\Lists.exe
+G:\Visual Basic\Lists\Lists\obj\Debug\Lists.xml
+G:\Visual Basic\Lists\Lists\obj\Debug\Lists.pdb
