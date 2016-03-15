@@ -1,0 +1,10 @@
+G:\Visual Basic\HCF_LCM\HCF_LCM\bin\Debug\HCF_LCM.exe.config
+G:\Visual Basic\HCF_LCM\HCF_LCM\bin\Debug\HCF_LCM.exe
+G:\Visual Basic\HCF_LCM\HCF_LCM\bin\Debug\HCF_LCM.pdb
+G:\Visual Basic\HCF_LCM\HCF_LCM\bin\Debug\HCF_LCM.xml
+G:\Visual Basic\HCF_LCM\HCF_LCM\obj\Debug\HCF_LCM.Form1.resources
+G:\Visual Basic\HCF_LCM\HCF_LCM\obj\Debug\HCF_LCM.Resources.resources
+G:\Visual Basic\HCF_LCM\HCF_LCM\obj\Debug\HCF_LCM.vbproj.GenerateResource.Cache
+G:\Visual Basic\HCF_LCM\HCF_LCM\obj\Debug\HCF_LCM.exe
+G:\Visual Basic\HCF_LCM\HCF_LCM\obj\Debug\HCF_LCM.xml
+G:\Visual Basic\HCF_LCM\HCF_LCM\obj\Debug\HCF_LCM.pdb
