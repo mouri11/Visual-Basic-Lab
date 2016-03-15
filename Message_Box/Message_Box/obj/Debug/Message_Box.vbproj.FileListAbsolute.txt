@@ -1,0 +1,10 @@
+G:\Visual Basic\Message_Box\Message_Box\bin\Debug\Message_Box.exe.config
+G:\Visual Basic\Message_Box\Message_Box\bin\Debug\Message_Box.exe
+G:\Visual Basic\Message_Box\Message_Box\bin\Debug\Message_Box.pdb
+G:\Visual Basic\Message_Box\Message_Box\bin\Debug\Message_Box.xml
+G:\Visual Basic\Message_Box\Message_Box\obj\Debug\Message_Box.Form1.resources
+G:\Visual Basic\Message_Box\Message_Box\obj\Debug\Message_Box.Resources.resources
+G:\Visual Basic\Message_Box\Message_Box\obj\Debug\Message_Box.vbproj.GenerateResource.Cache
+G:\Visual Basic\Message_Box\Message_Box\obj\Debug\Message_Box.exe
+G:\Visual Basic\Message_Box\Message_Box\obj\Debug\Message_Box.xml
+G:\Visual Basic\Message_Box\Message_Box\obj\Debug\Message_Box.pdb
