@@ -1,0 +1,10 @@
+G:\Visual Basic\Radio\Radio\bin\Debug\Radio.exe.config
+G:\Visual Basic\Radio\Radio\bin\Debug\Radio.exe
+G:\Visual Basic\Radio\Radio\bin\Debug\Radio.pdb
+G:\Visual Basic\Radio\Radio\bin\Debug\Radio.xml
+G:\Visual Basic\Radio\Radio\obj\Debug\Radio.Form1.resources
+G:\Visual Basic\Radio\Radio\obj\Debug\Radio.Resources.resources
+G:\Visual Basic\Radio\Radio\obj\Debug\Radio.vbproj.GenerateResource.Cache
+G:\Visual Basic\Radio\Radio\obj\Debug\Radio.exe
+G:\Visual Basic\Radio\Radio\obj\Debug\Radio.xml
+G:\Visual Basic\Radio\Radio\obj\Debug\Radio.pdb
