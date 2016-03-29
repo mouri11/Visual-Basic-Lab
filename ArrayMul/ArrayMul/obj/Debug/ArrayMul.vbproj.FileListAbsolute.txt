@@ -1,0 +1,10 @@
+G:\Visual Basic\ArrayMul\ArrayMul\bin\Debug\ArrayMul.exe.config
+G:\Visual Basic\ArrayMul\ArrayMul\bin\Debug\ArrayMul.exe
+G:\Visual Basic\ArrayMul\ArrayMul\bin\Debug\ArrayMul.pdb
+G:\Visual Basic\ArrayMul\ArrayMul\bin\Debug\ArrayMul.xml
+G:\Visual Basic\ArrayMul\ArrayMul\obj\Debug\ArrayMul.Form1.resources
+G:\Visual Basic\ArrayMul\ArrayMul\obj\Debug\ArrayMul.Resources.resources
+G:\Visual Basic\ArrayMul\ArrayMul\obj\Debug\ArrayMul.vbproj.GenerateResource.Cache
+G:\Visual Basic\ArrayMul\ArrayMul\obj\Debug\ArrayMul.exe
+G:\Visual Basic\ArrayMul\ArrayMul\obj\Debug\ArrayMul.xml
+G:\Visual Basic\ArrayMul\ArrayMul\obj\Debug\ArrayMul.pdb
