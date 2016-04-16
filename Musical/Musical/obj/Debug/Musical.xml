@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Musical
+</name>
+</assembly>
+<members>
+<member name="T:Musical.Music_ArchiveDataSet1.AlbumDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSet1.AlbumRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSet1.AlbumRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSet1TableAdapters.AlbumTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Musical.Music_ArchiveDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Musical.Music_ArchiveDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Musical.Music_ArchiveDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Musical.Music_ArchiveDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Musical.Music_ArchiveDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Musical.Music_ArchiveDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Musical.Music_ArchiveDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Musical.Music_ArchiveDataSet1TableAdapters.TableAdapterManager.UpdateAll(Musical.Music_ArchiveDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Musical.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Musical.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Musical.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSet.AlbumDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSet.AlbumRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSet.AlbumRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSetTableAdapters.AlbumTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Musical.Music_ArchiveDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Musical.Music_ArchiveDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Musical.Music_ArchiveDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Musical.Music_ArchiveDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Musical.Music_ArchiveDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Musical.Music_ArchiveDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Musical.Music_ArchiveDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Musical.Music_ArchiveDataSetTableAdapters.TableAdapterManager.UpdateAll(Musical.Music_ArchiveDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Musical.Music_ArchiveDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,10 @@
+G:\Visual Basic\Musical\Musical\bin\Debug\Musical.exe.config
+G:\Visual Basic\Musical\Musical\bin\Debug\Musical.exe
+G:\Visual Basic\Musical\Musical\bin\Debug\Musical.pdb
+G:\Visual Basic\Musical\Musical\bin\Debug\Musical.xml
+G:\Visual Basic\Musical\Musical\obj\Debug\Musical.Form1.resources
+G:\Visual Basic\Musical\Musical\obj\Debug\Musical.Resources.resources
+G:\Visual Basic\Musical\Musical\obj\Debug\Musical.vbproj.GenerateResource.Cache
+G:\Visual Basic\Musical\Musical\obj\Debug\Musical.exe
+G:\Visual Basic\Musical\Musical\obj\Debug\Musical.xml
+G:\Visual Basic\Musical\Musical\obj\Debug\Musical.pdb
