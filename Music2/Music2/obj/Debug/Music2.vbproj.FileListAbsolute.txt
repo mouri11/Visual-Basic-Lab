@@ -1,0 +1,12 @@
+c:\users\mouri\documents\visual studio 2012\Projects\Music2\Music2\bin\Debug\Music2.exe.config
+G:\Visual Basic\Music2\Music2\bin\Debug\Music2.exe.config
+G:\Visual Basic\Music2\Music2\bin\Debug\Music Archive.mdb
+G:\Visual Basic\Music2\Music2\bin\Debug\Music2.exe
+G:\Visual Basic\Music2\Music2\bin\Debug\Music2.pdb
+G:\Visual Basic\Music2\Music2\bin\Debug\Music2.xml
+G:\Visual Basic\Music2\Music2\obj\Debug\Music2.Form1.resources
+G:\Visual Basic\Music2\Music2\obj\Debug\Music2.Resources.resources
+G:\Visual Basic\Music2\Music2\obj\Debug\Music2.vbproj.GenerateResource.Cache
+G:\Visual Basic\Music2\Music2\obj\Debug\Music2.exe
+G:\Visual Basic\Music2\Music2\obj\Debug\Music2.xml
+G:\Visual Basic\Music2\Music2\obj\Debug\Music2.pdb
